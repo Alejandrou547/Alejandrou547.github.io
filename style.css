@@ -1,0 +1,28 @@
+h2{
+    color: brown;
+}
+h4{
+    color: cadetblue;
+}
+h2{
+    font-family: verdana;
+}
+h4{
+    font-size: 30px;
+    font-family: Geneva;
+}
+img{
+    width: 400px;
+    border-width: 4px;
+    border-color: darkolivegreen;
+    border-radius: 30px;
+}
+.bordes-redondeados{
+    border-radius: 10px;
+}
+div{
+    background-color: blanchedalmond;
+}
+#oracion-del-final{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
